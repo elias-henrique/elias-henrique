@@ -1,4 +1,4 @@
-<img width="5000" height="400" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg">
+<img width="5000" height="600" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg">
 
 <br>
 <br>
