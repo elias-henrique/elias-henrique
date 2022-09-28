@@ -1,4 +1,4 @@
-<img width="5000" height="300" src="https://user-images.githubusercontent.com/55928280/156589588-6cca085c-e20f-4923-b3b8-f29683046eb3.png">
+<img width="5000" height="300" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg">
 
 <br>
 <br>
