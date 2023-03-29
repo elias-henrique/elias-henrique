@@ -1,8 +1,3 @@
-<img width="851" height="315" src="https://i.pinimg.com/originals/4c/d9/ce/4cd9ce636c6d5f23688f0fda99cd81cf.gif">
-
-<br>
-<br>
-
 # Oi, Eu sou o Se7e  🔮
 
 <br>
