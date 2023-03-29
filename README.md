@@ -5,11 +5,11 @@
 <br>
 
 <h3>
-<p>Oi meu nome é Elias Henrique, mas todos me chamam de Se7e, sou especialista em desenvolvimento em software de redes.
+Olá, eu sou Elias Henrique, mas a maioria das pessoas me conhece como Se7e. Tenho uma vasta experiência em desenvolvimento de software de redes e me considero um especialista nessa área.
 
-<p>Minha linguagem favorita é Python 🐍, conheci a linguagem nos meus 15 anos e foi amor à primeira vista 💚.
+Minha linguagem de programação favorita é o Python. Fiquei fascinado por essa linguagem quando tinha apenas 15 anos e, desde então, tenho aperfeiçoado minhas habilidades com ela. É como se fosse amor à primeira vista, pois acredito que Python é uma das linguagens mais intuitivas e versáteis disponíveis atualmente.
 
-<p>Sou apaixonado em contribuição pública e darei o meu máximo para ajudar a comunidade. 🕺💫
+Eu sou extremamente apaixonado por contribuir para a comunidade e fazer a diferença. Sempre busco oportunidades para ajudar e compartilhar meus conhecimentos. Estou sempre disposto a dar o meu melhor para ajudar a comunidade e tornar o mundo um lugar melhor através da tecnologia.
 
 </h3>
 
