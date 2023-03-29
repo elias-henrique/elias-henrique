@@ -1,8 +1,6 @@
 # Oi, Eu sou o Se7e  🔮
 
 <br>
-<br>
-<br>
 
 <h3>
 Olá, eu sou Elias Henrique, mas a maioria das pessoas me conhece como Se7e. Tenho uma vasta experiência em desenvolvimento de software de redes e me considero um especialista nessa área.
