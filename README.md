@@ -20,20 +20,19 @@
 
 
 ```
-Olá, eu sou Elias Henrique, mas a maioria das pessoas me conhece como Se7e. Tenho uma 
-paixão ardente pelo desenvolvimento de software de redes e me considero um verdadeiro
-especialista nessa área.
+Olá, sou Elias Henrique, mas muitos me conhecem como Se7e. Tenho uma ampla 
+experiência no desenvolvimento de software de redes e me considero um especialista nesta 
+área.
 
-Ah, meu coração bate mais forte quando falamos sobre Python! Essa linguagem 
-encantadora roubou meu coração quando eu tinha apenas 15 anos e, desde então, tem sido 
-uma história de amor eterno. Acredito que Python é como um abraço carinhoso: intuitiva, 
-versátil e sempre pronta para me surpreender.
+A linguagem de programação que mais me encanta é o Python. Fiquei fascinado por ela aos 
+15 anos e desde então venho aperfeiçoando minhas habilidades com dedicação. Para mim 
+foi amor à primeira vista pois acredito que Python é uma das linguagens mais intuitivas e 
+versáteis disponíveis atualmente.
 
-Meu maior desejo é espalhar a doçura da tecnologia pela comunidade e fazer uma diferença 
-positiva no mundo. Sempre que encontro uma oportunidade, estou prontinho para 
-compartilhar meu conhecimento e ajudar os outros. Afinal, o que seria da vida sem 
-espalharmos um pouquinho de amor e conhecimento, não é mesmo? Estou aqui, de coração 
-aberto, para tornar o mundo um lugar mais fofo e acolhedor através da tecnologia. 💕
+Contribuir para a comunidade e fazer a diferença são valores que me movem intensamente. 
+Sempre busco oportunidades para ajudar e compartilhar meus conhecimentos. Estou 
+comprometido em oferecer o meu melhor para ajudar a comunidade e contribuir para tornar 
+o mundo um lugar melhor por meio da tecnologia. 😼🔮
 ```
 
 ### 🖥️ Tecnologias e Ferramentas: 
