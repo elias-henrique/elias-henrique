@@ -57,9 +57,7 @@ o mundo um lugar melhor por meio da tecnologia. 😼🔮
 <br>
 
 ## Encontre-me na web 🌎:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1016772288865112164/1133025421869465790/octocat-1690204667624.png"></a>
-- Siga-me no meu  <a href="https://www.instagram.com/__eliashenrique/">Instagram</a> ☕
 - Ajuste com interações no <a href="https://codepen.io/elias-henrique"> Codepen</a> 🏓
-- Compartilhamento de atualizações em <a href="https://www.linkedin.com/in/elias-henrique-moreira-167381194/">LinkedIn</a> 💼
 
 
 
