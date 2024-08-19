@@ -56,7 +56,8 @@ o mundo um lugar melhor por meio da tecnologia. 😼🔮
 
 <br>
 
-## Encontre-me na web 🌎:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1016772288865112164/1133025421869465790/octocat-1690204667624.png"></a>
+
+## Encontre-me na web 🌎:<img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/1043265063592665150/1133028857499357397/octocat-1690205519020.png?ex=66c49ada&is=66c3495a&hm=7a912a9a4e19c012d0152f2672bd25bc14048f14521b98fac6e17dc5cdf50c7e&"></a>
 - Ajuste com interações no <a href="https://codepen.io/elias-henrique"> Codepen</a> 🏓
 
 
