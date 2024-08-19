@@ -1,7 +1,4 @@
 
-
-<div class="tenor-gif-embed" data-postid="5376604" data-share-method="host" data-aspect-ratio="1.78571" align="right" width="250px" style="margin-top:-20px" ><a href="https://tenor.com/view/tongue-bleh-kawaii-angry-anime-gif-5376604">Tongue Bleh GIF</a>from <a href="https://tenor.com/search/tongue-gifs">Tongue GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <div dsplay="inline-block">
     <h1 align="left">Elias Henrique ~ Se7e</h1>
   <a href="https://www.youtube.com/channel/UC_zGKomtaqTIpiqMDtYJ2Zw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
