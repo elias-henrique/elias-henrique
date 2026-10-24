@@ -1,94 +1,47 @@
-<div align="center" style="padding: 26px; border-radius: 16px; background: radial-gradient(circle at 20% 20%, #1e3a8a 0%, #0f172a 45%, #020617 100%); color: #e2e8f0;">
-  <img src="octocat-1690205519020.png" alt="octocat" width="120"/>
-  <h1 style="margin-bottom: 0;">Elias Henrique · Se7e</h1>
-  <p style="margin-top: 6px; font-size: 18px;">Python backend · Segurança ofensiva · DevOps</p>
-  <p style="max-width: 640px; margin: 12px auto 20px;">
-    Construo serviços em Python/Django, automação e infraestrutura segura. Entrego rápido, documento bem e deixo o ambiente pronto para escalar com observabilidade.
-  </p>
-  <p>
-    <a href="mailto:eliasmoreiraueg2005@gmail.com" style="padding: 12px 18px; background: linear-gradient(120deg,#00D4FF,#7F00FF); color: #0b1220; text-decoration: none; border-radius: 10px; font-weight: 800; margin-right: 8px;">Fale comigo</a>
-    <a href="https://www.linkedin.com/in/elias-henrique-moreira-167381194" style="padding: 12px 18px; background: #0b1220; color: #e2e8f0; text-decoration: none; border-radius: 10px; font-weight: 700; border: 1px solid #1e293b;">LinkedIn</a>
-  </p>
-</div>
+<h1 align="center">Olá 👋, eu sou Elias Henrique</h1>
 
----
-
-## Destaques rápidos
-
-<table>
-  <tr>
-    <td><strong>Backends confiáveis</strong><br/>APIs bem versionadas, autenticação e documentação clara para times.</td>
-    <td><strong>Automação que economiza</strong><br/>Scripts e pipelines que cortam tarefas repetitivas e reduzem erros.</td>
-    <td><strong>Segurança ativa</strong><br/>Pentest, hardening e monitoração contínua para fechar brechas cedo.</td>
-  </tr>
-</table>
-
-## Onde atuo melhor
-
-- Arquitetura de serviços web e APIs REST em Python/Django.
-- Pipelines DevOps (container, CI/CD, logs/metrics) para entrega frequente.
-- Laboratórios de segurança com Kali Linux para validar superfície de ataque.
-- Mentoria, code review e documentação para projetos que precisam de clareza.
-
-## Stack principal
+<p align="center"><b>Desenvolvedor Full-Stack · Python & JavaScript · Segurança da Informação</b></p>
 
 <p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgres"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full-Stack;APIs+com+Python+e+Django;Arquitetura+de+sistemas+escal%C3%A1veis;Seguran%C3%A7a+web+e+de+redes" alt="Desenvolvedor Full-Stack"/>
 </p>
 
-## O que entrego
-
-- APIs e integrações em Python/Django com autenticação e documentação pronta para onboard.
-- Automação e scripts de infraestrutura (bash/python) que reduzem custo e tempo operacional.
-- Observabilidade desde o dia 1: logs estruturados, métricas e alertas objetivos.
-- Revisão de segurança e pentest ético para diminuir riscos antes de ir a produção.
-
-## Projetos em destaque
-
-> Exemplos do que costumo entregar no dia a dia de backend, automação e segurança.
-
-<table>
-  <tr>
-    <td><strong>Orquestração de APIs</strong><br/>API REST em Django consolidando integrações externas, autenticação configurada e rate limit aplicado.</td>
-    <td><strong>Pipeline DevOps</strong><br/>CI/CD com Docker e testes automatizados, padronizando deploy e evitando regressões.</td>
-    <td><strong>Lab de segurança</strong><br/>Ambiente Kali Linux para pentest interno, com checklist de vulnerabilidades e plano de hardening.</td>
-  </tr>
-</table>
-
-## Conteúdo e comunidade
-
-- Eu gosto de jogar um pouco [YouTube](https://www.youtube.com/channel/UC_zGKomtaqTIpiqMDtYJ2Zw).
-- Protótipos de UI/UX e microsserviços no [CodePen](https://codepen.io/elias-henrique).
-- Comunidade no [Discord](https://discord.gg/SMHCFumDDK) para dúvidas sobre Python, DevOps e segurança.
-
-## Métricas rápidas
-
-<div align="center">
-  <a href="https://github.com/elias-henrique">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elias-henrique&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  </a>
-  <a href="https://github.com/elias-henrique">
-    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=elias-henrique&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="top-langs"/>
-  </a>
-</div>
-
-## Vamos conversar
-
-Precisa de alguém para estruturar um backend, automatizar fluxos críticos ou testar a resiliência da sua infraestrutura? Chama:
-
-- E-mail: [eliasmoreiraueg2005@gmail.com](mailto:eliasmoreiraueg2005@gmail.com)
-- LinkedIn: [linkedin.com/in/elias-henrique-moreira-167381194](https://www.linkedin.com/in/elias-henrique-moreira-167381194)
-- Discord: [Comunidade](https://discord.gg/SMHCFumDDK)
+## 🌐 Conecte-se
 
 <p align="center">
-  <a href="mailto:eliasmoreiraueg2005@gmail.com" style="padding: 14px 22px; background: linear-gradient(120deg,#7F00FF,#00D4FF); color: #0b1220; text-decoration: none; border-radius: 12px; font-weight: 800;">Quero trocar uma ideia</a>
+  <a href="https://www.linkedin.com/in/elias-henrique-moreira-167381194"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/eliashenriquesh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:eliasmoreiraueg2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://discord.gg/SMHCFumDDK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://codepen.io/elias-henrique"><img src="https://img.shields.io/badge/CodePen-131417?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+</p>
+
+## 👨‍💻 Sobre mim
+
+- 💼 **Desenvolvedor de Sistemas** na Layer 7 Tecnologia (2019 – 2026): arquiteturas que aumentaram em **30%** a eficiência operacional
+- 🎓 Bacharelado em **Sistemas de Informação** (UEG) · cursando Gestão em Segurança Pública e Privada
+- 🎤 Palestrante no curso de extensão **GOPYTHON** (2023, 80h)
+- 🔐 Segurança web e de redes, ethical hacking
+- 📍 Goiás, Brasil
+
+## 💻 Tech Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,django,laravel,php,postgres,mysql,mongodb,docker,kubernetes,linux,bash,nginx,git,github,html,raspberrypi&perline=9&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=python,js,django,laravel,php,postgres,mysql,mongodb,docker,kubernetes,linux,bash,nginx,git,github,html,raspberrypi&perline=9&theme=light" alt="Python, JavaScript, Django, Laravel, PHP, PostgreSQL, MySQL, MongoDB, Docker, Kubernetes, Linux, Bash, Nginx, Git, GitHub, HTML, Raspberry Pi"/>
+  </picture>
+</p>
+
+## 📜 Certificações
+
+Django REST Framework · Docker Swarm e Kubernetes · PostgreSQL · MongoDB e NoSQL com Python · Fundamentos de Ethical Hacking · Técnica de Invasão · Python Web Scraping · Laravel · Raspberry Pi na Prática
+
+## 📊 Linguagens mais usadas
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=elias-henrique&layout=compact&langs_count=6&hide_border=true&disable_animations=true&theme=github_dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-henrique&layout=compact&langs_count=6&hide_border=true&disable_animations=true" alt="Linguagens mais usadas"/>
+  </picture>
 </p>
